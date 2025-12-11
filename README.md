@@ -103,6 +103,7 @@ The interface provides:
    - "Describe the scene.
 
 ## Methodology Details
+<img width="265" height="214" alt="Image" src="https://github.com/user-attachments/assets/4b1b0dcb-6423-48c2-bab5-d08c0f38fad4" />
 
 ### SE-C2f Enhancement
 - Squeeze-and-Excitation block added to first C2f layer only
