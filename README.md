@@ -30,6 +30,8 @@ The pipeline transforms raw images into structured multimodal knowledge graphs, 
 
 ## Architecture
 <img width="280" height="245" alt="Image" src="https://github.com/user-attachments/assets/60541e6e-f04e-4bc8-8415-5d98524ee686" />
+
+
 ## Repository Structure
 
 ```
