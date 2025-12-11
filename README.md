@@ -29,7 +29,6 @@ The pipeline transforms raw images into structured multimodal knowledge graphs, 
 ---
 
 ## Architecture
-https://github-production-user-asset-6210df.s3.amazonaws.com/73066338/525580653-e90af0cd-3fdb-4c29-9ff4-6c702ca78804.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251211T203811Z&X-Amz-Expires=300&X-Amz-Signature=a2394247b3ed989d0bb0554438642a5b10cdabdde632de4cb0e94d1e25eb869b&X-Amz-SignedHeaders=host
 
 
 
@@ -101,13 +100,7 @@ The interface provides:
 4. Ask questions like:
    - "What objects are in the image?"
    - "Where is the person relative to the car?"
-   - "Describe the scene."
-
-
-https://github.com/user-attachments/assets/8e8c1873-ec39-43e5-b32c-b1976b664de4
-
-https://github.com/user-attachments/assets/8e8c1873-ec39-43e5-b32c-b1976b664de4
----
+   - "Describe the scene.
 
 ## Methodology Details
 
